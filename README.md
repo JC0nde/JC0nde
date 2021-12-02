@@ -4,7 +4,7 @@
 </p>
   
   <p align="center">
-<a href="https://jonathanconde.com/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
+<a onclick="return ! window.open(this.href);" href="https://jonathanconde.com/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
 <a href="https://twitter.com/JC0nde" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/jonathanconde/"><img src="https://img.shields.io/badge/Linkedin-2962FF?style=for-the-badge&logo=linkedin&logoColor=white alt="HashNode" /></a>&nbsp;
 </p>
