@@ -1,15 +1,15 @@
 <div>
 <p>
-  <h1 align="center"><b>Hi there, I'm Jonathan <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+<h1 align="center"><b>Hi there, I'm Jonathan <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
-  
-  <p align="center">
+
+<p align="center">
 <a href="https://jonathanconde.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
 <a href="https://twitter.com/JC0nde" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/jonathanconde/"><img src="https://img.shields.io/badge/Linkedin-2962FF?style=for-the-badge&logo=linkedin&logoColor=white alt="HashNode" /></a>&nbsp;
 </p>
 
-- 🔭 I’m currently working on saving the world
+- 🔭 I’m currently working on saving the worldh
 - 🌱 I’m currently learning Laravel and Vue
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with 
@@ -17,9 +17,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![Johnny's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JC0nde&theme=light&hide_langs_below=1)
-![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JC0nde&show_icons=true&theme=default)
 
 
 <p>
@@ -36,7 +33,7 @@
 <img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
 <!--<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>-->
-   </p>
+</p>
 <br />
 <p align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
@@ -47,7 +44,8 @@
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=JC0nde&theme=default&show_icons=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JC0nde&layout=compact&theme=default" width="400" />
 </p>
+
 </div>
