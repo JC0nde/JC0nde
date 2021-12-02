@@ -18,13 +18,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-
 ![Johnny's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JC0nde&theme=light&hide_langs_below=1)
 ![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JC0nde&show_icons=true&theme=default)
 
@@ -112,14 +105,3 @@ Timezone: Europe/Vienna (CEST)
 </p>
 
 ---
--->
-
-📕 **Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [Nikki - Online Journal App](https://yuridevat.hashnode.dev/nikki-online-journal-app)
-- [SOS Animals App. A project for the Clerk x Hashnode Hackathon](https://yuridevat.hashnode.dev/sos-animals-hackathon-project)
-- [2 ways to overcome deployment problems with React on Netlify](https://dev.to/yuridevat/2-ways-to-overcome-deployment-problems-with-react-on-netlify-4l5p)
-- [How to add styling to an active link in NextJS ](https://dev.to/yuridevat/how-to-add-styling-to-an-active-link-in-nextjs-593e)
-- [Why to choose NextJS for future projects](https://dev.to/yuridevat/why-to-choose-nextjs-for-future-projects-4k8o)
-<!-- BLOG-POST-LIST:END -->
