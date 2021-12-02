@@ -2,6 +2,12 @@
 <p>
   <h1 align="center"><b>Hi there, I'm Jonathan <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
+  
+  <p align="center">
+<a href="https://jonathanconde.com/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
+<a href="https://twitter.com/JC0nde" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jonathanconde/"><img src="https://img.shields.io/badge/Linkedin-2962FF?style=for-the-badge&logo=linkedin&logoColor=white alt="HashNode" /></a>&nbsp;
+</p>
 
 - 🔭 I’m currently working on saving the world
 - 🌱 I’m currently learning Laravel and Vue
@@ -11,11 +17,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![Twitter: JC0nde](https://img.shields.io/twitter/follow/JC0nde?style=social)](https://twitter.com/JC0nde)
-[![Linkedin: Jonathan Conde](https://img.shields.io/badge/-jonathanconde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathanconde/)](https://www.linkedin.com/in/jonathanconde/)
-[![GitHub JC0nde](https://img.shields.io/github/followers/JC0nde?label=follow&style=social)](https://github.com/JC0nde)
-[![website](https://img.shields.io/badge/PortfolioWebsite-jonathanconde.com-2648ff?style=flat-square&logo=google-chrome)](https://jonathanconde.com)
 
 **Languages and Tools:**  
 
@@ -33,17 +34,9 @@
   </div>
   </div>
   <!--
-</div>
 
-<p>
-  <h1 align="center"><b>Hi there, I'm Julia <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
-</p>
-<p align="center">
-<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
-<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
-<a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://hashnode.com/@YuriDevAT"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp;
-</p>
+
+
 <br />
 
 <p>Enthusiastic Software Engineer since 2020 using ReactJS, Angular and Java Spring Boot. a11y minded. Scrum & Agile inspired.</p>
