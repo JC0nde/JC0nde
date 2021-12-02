@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 
 [![Twitter: JC0nde](https://img.shields.io/twitter/follow/JC0nde?style=social)](https://twitter.com/JC0nde)
-[![Linkedin: Jonathan Conde](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathanconde/)](https://www.linkedin.com/in/jonathanconde/)
+[![Linkedin: Jonathan Conde](https://img.shields.io/badge/-jonathanconde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathanconde/)](https://www.linkedin.com/in/jonathanconde/)
 [![GitHub JC0nde](https://img.shields.io/github/followers/JC0nde?label=follow&style=social)](https://github.com/JC0nde)
 [![website](https://img.shields.io/badge/PortfolioWebsite-jonathanconde.com-2648ff?style=flat-square&logo=google-chrome)](https://jonathanconde.com)
 
