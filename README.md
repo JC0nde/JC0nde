@@ -6,7 +6,8 @@
 <p align="center">
 <a href="https://jonathanconde.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
 <a href="https://twitter.com/JC0nde" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/jonathanconde/"><img src="https://img.shields.io/badge/Linkedin-2962FF?style=for-the-badge&logo=linkedin&logoColor=white alt="HashNode" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jonathanconde/"><img src="https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white alt="HashNode" /></a>&nbsp;
+<a href="mailto:mail@jonathanconde.com"><img src="https://img.shields.io/badge/-EMAIL-000000?style=for-the-badge&?color=00000 alt="E-mail" /></a>&nbsp;
 </p>
  
 <h2 align="center">About me 😇</h2>
