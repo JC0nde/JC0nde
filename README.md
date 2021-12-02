@@ -1,4 +1,4 @@
-### Hi there, I'm Jonathan Conde 👋
+<div>
 <p>
   <h1 align="center"><b>Hi there, I'm Jonathan <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
@@ -30,7 +30,8 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-
+  </div>
+  </div>
   <!--
 </div>
 
