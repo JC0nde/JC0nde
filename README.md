@@ -21,53 +21,7 @@
 ![Johnny's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JC0nde&theme=light&hide_langs_below=1)
 ![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JC0nde&show_icons=true&theme=default)
 
-</div>
-  <!--
 
-
-
-<br />
-
-<p>Enthusiastic Software Engineer since 2020 using ReactJS, Angular and Java Spring Boot. a11y minded. Scrum & Agile inspired.</p>
-<br />
-
-<h2 align="center">My favorite projects 💻</h2>
-<br />
-
-<p align="center">
-  <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
-  <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/YuriDevAT/sos-animals">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
-</a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
-</a>
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
-</a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
-</a>
-</p>
-
-<br />
-
-<h2 align="center">About me 😇</h2>
-<p align="center">
-Timezone: Europe/Vienna (CEST)
-</p>
-<br />
-<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
-
-:muscle: I am currently helping others to get into tech too by creating content using Twitter.<br />
--->
-:ghost: Fun fact: ... I studied Archeology and English at Unervsity, but am now a selftaught webdeveloper working in Switzerland. <br />
-
-<br />
-<br />
 <p>
 <h3 align="center"> Languages and Tools</h3>
 </p>
@@ -96,3 +50,4 @@ Timezone: Europe/Vienna (CEST)
 <img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="450"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
 </p>
+</div>
