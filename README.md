@@ -10,4 +10,4 @@
 - ⚡ Fun fact: ...
 
 
-![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JC0nde&show_icons=true&theme=synthwave)
+![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JC0nde&show_icons=true&theme=solarized-dark)
