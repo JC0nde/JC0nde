@@ -28,6 +28,7 @@ Timezone: Europe/Zürich (CEST)
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" width="40" height="40"/> </a>
 <a href="https://wordpres.org/" target="_blank"> <img alt="WordPress" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" /> </a>
 <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" /> </a>
