@@ -1,7 +1,4 @@
-<div>
-<p>
 <h1 align="center"><b>Hi there, I'm Jonathan <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
-</p>
 
 <p align="center">
 <a href="https://jonathanconde.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
@@ -49,5 +46,3 @@ Timezone: Europe/Zürich (CEST)
 <img src="https://github-readme-stats.vercel.app/api?username=JC0nde&theme=default&show_icons=true" width="450"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JC0nde&layout=compact&theme=default" width="400" />
 </p>
-
-</div>
