@@ -23,3 +23,9 @@
 
 ![Johnny's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JC0nde&theme=light&hide_langs_below=1)
 ![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JC0nde&show_icons=true&theme=default)
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
