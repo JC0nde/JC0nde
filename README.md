@@ -1,16 +1,13 @@
 <h1 align="center"><b>Hi there, I'm Jonathan <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 
 <p align="center">
-<a href="https://jonathanconde.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
+<a href="https://jonathanconde.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&logo=opsgenie&logoColor=ffffff&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
 <a href="https://twitter.com/JC0nde" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/jonathanconde/"><img src="https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white alt="HashNode" /></a>&nbsp;
-<a href="mailto:mail@jonathanconde.com"><img src="https://img.shields.io/badge/-EMAIL-000000?style=for-the-badge&?color=00000 alt="E-mail" /></a>&nbsp;
+<a href="mailto:mail@jonathanconde.com"><img src="https://img.shields.io/badge/-EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="E-mail" /></a>&nbsp;
 </p>
  
 <h2 align="center">About me 😇</h2>
-<p align="center">
-Timezone: Europe/Zürich (CEST)
-</p>
 <br />
 
 :ghost: Fun fact: ... I studied Archeology and History at university, but now am a selftaught webdeveloper working in Switzerland. <br />
