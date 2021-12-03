@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi there, I'm Jonathan <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+<h1 align="center"><samp><b>Hi there, I'm Jonathan <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></samp></h1>
 
 <p align="center">
 <a href="https://jonathanconde.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&logo=opsgenie&logoColor=ffffff&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
@@ -8,12 +8,12 @@
 </p>
 <br />
 
-:ghost: Fun fact: ... I studied Archeology and History at university, but now am a webdeveloper working in Switzerland. <br />
+:ghost: <samp>Fun fact: I studied Archeology and History at university, but now am a webdeveloper working in Switzerland.</samp> <br />
 
 <br />  
 <br />  
 <p>
-<h3 align="center"> Languages and Tools</h3>
+  <h3 align="center"><samp> Languages and Tools</samp></h3>
 </p>
 <br />
 <p align="center">
