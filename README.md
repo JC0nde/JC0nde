@@ -1,19 +1,11 @@
 <h1 align="center"><samp><b>Hi there, I'm Jonathan <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></samp></h1>
-
-<p align="center">
-<a href="https://jonathanconde.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&logo=opsgenie&logoColor=ffffff&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
-<a href="https://twitter.com/JC0nde" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/jonathanconde/"><img src="https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white alt="HashNode" /></a>&nbsp;
-<a href="mailto:mail@jonathanconde.com"><img src="https://img.shields.io/badge/-E--MAIL-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="E-mail" /></a>&nbsp;
-</p>
 <br />
 
 :ghost: <samp>Fun fact: I studied Archeology and History at university, but now am a webdeveloper working in Switzerland.</samp> <br />
-
-<br />  
+ 
 <br />  
 <p>
-  <h3 align="center"><samp> Languages and Tools</samp></h3>
+  <h3 align="center"><samp>Technologies and Tools</samp></h3>
 </p>
 <br />
 <p align="center">
@@ -26,6 +18,13 @@
 <a href="https://wordpres.org/" target="_blank"> <img alt="WordPress" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" /> </a>
 <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" /> </a>
 <a href="https://www.gnu.org/software/emacs/" target="_blank"> <img alt="Emacs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" /> </a>
-<a href="https://archlinux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
+<a href="https://archlinux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<br />  
+</p>
+<p align="center">
+<a href="https://jonathanconde.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&logo=opsgenie&logoColor=ffffff&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
+<a href="https://twitter.com/JC0nde" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jonathanconde/"><img src="https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white alt="HashNode" /></a>&nbsp;
+<a href="mailto:mail@jonathanconde.com"><img src="https://img.shields.io/badge/-E--MAIL-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="E-mail" /></a>&nbsp;
 </p>
 
