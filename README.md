@@ -1,11 +1,18 @@
-<h1 align="center"><samp><b>Hi there, I'm Jonathan <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></samp></h1>
-<br />
+[![Header](https://raw.githubusercontent.com/JC0nde/JC0nde/master/github-banner.png "Header")](https://jonathanconde.com/)
 
-:ghost: <samp>Fun fact: I studied Archeology and History at university, but now am a webdeveloper working in Switzerland.</samp> <br />
+<h1 align="center"><samp><b>Hi there! <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></samp></h1>
+<br />
+<p align="center">
+<samp>My name is Jonathan Conde and I'm a webdeveloper from Switzerland, living in Villeneuve and currently working as an entrepreneur</samp>
+</p>
+
+<p align="center">
+:ghost: <samp>Fun fact: I studied Archeology and History at university
+</p>
  
-<br />  
+<br />
 <p>
-  <h3 align="center"><samp>Technologies and Tools</samp></h3>
+  <h3 align="center"><samp>Some Techs and Tools</samp></h3>
 </p>
 <br />
 <p align="center">
@@ -26,5 +33,20 @@
 <a href="https://twitter.com/JC0nde" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/jonathanconde/"><img src="https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white alt="HashNode" /></a>&nbsp;
 <a href="mailto:mail@jonathanconde.com"><img src="https://img.shields.io/badge/-E--MAIL-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="E-mail" /></a>&nbsp;
+</p>
+
+<br />
+<p align="center">
+<a href="https://github.com/JC0nde/JC0nde">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JC0nde&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/JC0nde/JC0nde">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JC0nde&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonathan's GitHub Stats" />
+</a>
+</p>
+
+<br />
+<p>
+<h4 align="center"><samp>Have a good day!</samp></h4>
 </p>
 
