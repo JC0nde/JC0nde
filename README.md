@@ -3,7 +3,7 @@
 <h1 align="center"><samp><b>Hi there! <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></samp></h1>
 <br />
 <p align="center">
-<samp>My name is Jonathan Conde and I'm a webdeveloper from Switzerland, living in Villeneuve and currently working as an entrepreneur</samp>
+<samp>My name is Jonathan Conde, a self-motivated tech enthusiast and full stack web developer from Switzerland</samp>
 </p>
 
 <p align="center">
