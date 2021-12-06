@@ -6,35 +6,47 @@
 <samp>My name is Jonathan Conde, a self-motivated tech enthusiast and full stack web developer from Switzerland</samp>
 </p>
 
-<p align="center">
-:ghost: <samp>Fun fact: I studied Archeology and History at university
-</p>
+<br />
+ 
+<div align="center"><samp>🌱 I’m currently learning Dart and Flutter</samp><br />
+ <samp> :ghost: Fun fact: I studied Archeology and History at university</samp></div>
+
  
 <br />
 <p>
-  <h3 align="center"><samp>Some Techs and Tools</samp></h3>
+  <h2 align="center"><samp>Some Techs and Tools</samp> 🔧</h2>
 </p>
 <br />
 <p align="center">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" width="40" height="40"/> </a>
-<a href="https://wordpres.org/" target="_blank"> <img alt="WordPress" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" /> </a>
-<a href="https://laravel.com/" target="_blank"> <img alt="Laravel" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" /> </a>
-<a href="https://www.gnu.org/software/emacs/" target="_blank"> <img alt="Emacs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" /> </a>
-<a href="https://archlinux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<br />  
+ 
+<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FD4F31" height=30 />
+<img src="https://img.shields.io/badge/Editor-Emacs-informational?style=flat&logo=gnu-emacs&logoColor=white&color=FD4F31" height=30 />
+<img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=FD4F31" height=30 />
+<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FD4F31" height=30 />
+<img src="https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=mysql&logoColor=white&color=FD4F31" height=30 />
+<img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=FD4F31" height=30 />
+<img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=FD4F31" height=30 />
+<img src="https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=FD4F31" height=30 />
+<img src="https://img.shields.io/badge/Tools-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=FD4F31" height=30 />
+<img src="https://img.shields.io/badge/Tools-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=FD4F31" height=30 />
+<img src="https://img.shields.io/badge/Tools-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=FD4F31" height=30 />
+<img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=FD4F31" height=30 />
+<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=FD4F31" height=30 />
+<img src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=FD4F31" height=30 />
+
 </p>
+<!--
 <p align="center">
 <a href="https://jonathanconde.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&logo=opsgenie&logoColor=ffffff&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
 <a href="https://twitter.com/JC0nde" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/jonathanconde/"><img src="https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white alt="HashNode" /></a>&nbsp;
 <a href="mailto:mail@jonathanconde.com"><img src="https://img.shields.io/badge/-E--MAIL-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="E-mail" /></a>&nbsp;
-</p>
+</p> -->
 
+<br />
+<p>
+  <h2 align="center"><samp>Github Stats</samp> &#x1f4c8;</h2>
+</p>
 <br />
 <p align="center">
 <a href="https://github.com/JC0nde/JC0nde">
