@@ -1,22 +1,19 @@
 [![Header](https://raw.githubusercontent.com/JC0nde/JC0nde/master/github-banner.png "Header")](https://jonathanconde.com/)
 
 <h1 align="center"><samp><b>Hi there! <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></samp></h1>
-<br />
+
 <p align="center">
 <samp>My name is Jonathan Conde, a self-motivated tech enthusiast and full stack web developer from Switzerland</samp>
 </p>
-
-<br />
  
 <div align="center"><samp>🌱 I’m currently learning Dart and Flutter</samp><br />
  <samp> :ghost: Fun fact: I studied Archeology and History at university</samp></div>
 
- 
-<br />
+
 <p>
   <h2 align="center"><samp>Some Techs and Tools</samp> 🔧</h2>
 </p>
-<br />
+
 <p align="center">
  
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FD4F31" height=30 />
@@ -43,11 +40,10 @@
 <a href="mailto:mail@jonathanconde.com"><img src="https://img.shields.io/badge/-E--MAIL-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="E-mail" /></a>&nbsp;
 </p> -->
 
-<br />
 <p>
   <h2 align="center"><samp>Github Stats</samp> &#x1f4c8;</h2>
 </p>
-<br />
+
 <p align="center">
 <a href="https://github.com/JC0nde/JC0nde">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JC0nde&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=FD4F31&bg_color=000000&langs_count=3" />
@@ -57,7 +53,6 @@
 </a>
 </p>
 
-<br />
 <p>
 <h4 align="center"><samp>Have a good day!</samp></h4>
 </p>
