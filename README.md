@@ -46,10 +46,10 @@
 
 <p align="center">
 <a href="https://github.com/JC0nde/JC0nde">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JC0nde&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=FD4F31&bg_color=000000&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JC0nde&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=FD4F31&bg_color=24292F&langs_count=3" />
 </a>
 <a href="https://github.com/JC0nde/JC0nde">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JC0nde&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=FD4F31&bg_color=000000" alt="Jonathan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JC0nde&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=FD4F31&bg_color=24292F" alt="Jonathan's GitHub Stats" />
 </a>
 </p>
 
