@@ -7,7 +7,7 @@
 </p>
  
 <div align="center"><samp>🌱 I’m currently learning Dart and Flutter</samp><br />
- <samp> :ghost: Fun fact: I studied Archeology and History at university</samp></div>
+ <samp> :ghost: Fun fact: I studied Archeology and Ancient History at University</samp></div>
 
 
 <p>
