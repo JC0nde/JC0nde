@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/JC0nde/JC0nde/master/github-banner.png "Header")](https://jonathanconde.com/)
+[![Header](https://raw.githubusercontent.com/JC0nde/JC0nde/main/github-banner.png "Header")](https://jonathanconde.com/)
 
 <h1 align="center"><samp><b>Hi there! <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></samp></h1>
 
