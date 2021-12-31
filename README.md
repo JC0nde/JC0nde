@@ -3,7 +3,7 @@
 <h1 align="center"><samp><b>Hi there! <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></samp></h1>
 
 <p align="center">
-<samp>My name is Jonathan Conde, a self-motivated tech enthusiast and web designer from Switzerland</samp>
+<samp>My name is Jonathan Conde, I'am a self-motivated tech enthusiast and web designer from Switzerland</samp>
 </p>
  
 <div align="center"><samp>🌱 I’m currently learning Laravel and Inertia.js</samp><br />
