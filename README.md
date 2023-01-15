@@ -14,6 +14,8 @@
   <h2 align="center"><samp>Some Techs and Tools</samp> 🔧</h2>
 </p>
 
+<p align="center"><img width="80" height="80" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="mona loading default" /></p>
+
 <p align="center">
  
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FD4F31" height=30 />
