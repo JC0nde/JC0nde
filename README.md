@@ -1,15 +1,14 @@
 [![Header](https://raw.githubusercontent.com/JC0nde/JC0nde/main/github-banner.png "Header")](https://jonathanconde.com/)
 
 <h1 align="center" style="border-bottom: none;"><samp><b>Hi there!</samp></h1>
-
+ <br>
 <p align="center">
 <samp>My name is Jonathan Conde, I'am a self-motivated tech enthusiast and web designer from Switzerland</samp>
 </p>
- 
+
 <div align="center"><samp>🌱 I’m currently learning Laravel and Inertia.js</samp><br />
  <samp> :ghost: Fun fact: I studied Archeology and Ancient History at University</samp></div>
-
-
+ <br>
 <p>
   <h2 align="center"><samp>Some Techs and Tools</samp></h2>
 </p>
