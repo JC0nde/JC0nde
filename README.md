@@ -17,7 +17,7 @@
 <p align="center">
  
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FD4F31" height=30 />
-<img src="https://img.shields.io/badge/Editor-Emacs-informational?style=flat&logo=gnu-emacs&logoColor=white&color=FD4F31" height=30 />
+<img src="https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=FD4F31" height=30 />
 <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=FD4F31" height=30 />
 <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FD4F31" height=30 />
 <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=FD4F31" height=30 />
